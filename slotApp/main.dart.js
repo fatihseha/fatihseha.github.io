@@ -72122,7 +72122,7 @@ q[11]=f*l+e*m
 e=A.aA(0,255,255,255)
 q=d.e
 o=q.a
-return A.h4(A.a([new A.dh(new A.aM(b,0,0,0),A.fS(A.abZ(B.CI,A.aqa(J.axU(q.b.a8(0,o.gn(o)),0.5)?A.bG(d.a.r,B.dJ,c,c):A.bG("cards/card_back.png",B.dJ,c,c),e,0),p,!0),r.a.b*0.19,s.a.a*0.08),c)],t.p),B.aE,B.G)}}
+return A.h4(A.a([new A.dh(new A.aM(b,0,0,0),A.fS(A.abZ(B.CI,A.aqa(J.axU(q.b.a8(0,o.gn(o)),0.5)?A.bG(d.a.r,B.dJ,c,c):A.bG("assets/cards/card_back.png",B.dJ,c,c),e,0),p,!0),r.a.b*0.19,s.a.a*0.08),c)],t.p),B.aE,B.G)}}
 A.ahh.prototype={
 $0(){this.a.V(new A.ahg())},
 $S:0}
